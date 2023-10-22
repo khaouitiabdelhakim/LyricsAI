@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.abdelhakim.lyricsai"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.abdelhakim.lyricsai"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
