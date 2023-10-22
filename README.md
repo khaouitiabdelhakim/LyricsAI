@@ -31,6 +31,7 @@ dependencyResolutionManagement {
 ```
 
 Next, add the LyricsAI library as a dependency in your app's build.gradle file. Be sure to replace `Tag` with the specific release version you want to use:
+latest version is [![](https://jitpack.io/v/khaouitiabdelhakim/LyricsAI.svg)](https://jitpack.io/#khaouitiabdelhakim/LyricsAI)
 
 ```groovy
 dependencies {
