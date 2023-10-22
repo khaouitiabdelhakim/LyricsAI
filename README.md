@@ -13,7 +13,7 @@ LyricsAI is a versatile library designed for Android developers to effortlessly 
 
 
 
-##How to Use
+## How to Use
 To use the LyricsAI library in your Android project, follow these steps:
 
 **Step 1. Add the JitPack Repository and Dependencies**
