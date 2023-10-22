@@ -1,5 +1,7 @@
 # LyricsAI - A Song Lyrics Retrieval Library
 
+![alt text](https://github.com/khaouitiabdelhakim/LyricsAI/LyricsAI.png)
+
 LyricsAI is a versatile library designed for Android developers to effortlessly retrieve song lyrics through web scraping. Developed by Abdelhakim Khaouiti, this library provides a seamless way to access lyrics, making it an excellent addition to music-related Android applications.
 
 ## Author
