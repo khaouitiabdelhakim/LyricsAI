@@ -100,7 +100,22 @@ Please ensure you handle network and web scraping exceptions in your application
 
 We extend our gratitude to the open-source community for their valuable contributions.
 
----
+## License
+
+```
+Copyright 2024 KHAOUITI ABDELHAKIM
+
+Licensed under the MIT License
+You may obtain a copy of the License at
+
+http://opensource.org/licenses/MIT
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the MIT License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the MIT License.
+```
 
 This library is designed to enhance your Android applications with easy access to song lyrics. Feel free to use LyricsAI in your projects while respecting its authorship. If you encounter issues, have suggestions for improvement, or want to contribute, we encourage you to get involved.
 
