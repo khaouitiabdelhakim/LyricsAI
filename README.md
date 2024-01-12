@@ -117,6 +117,9 @@ See the License for the specific language governing permissions and
 limitations under the MIT License.
 ```
 
+```Fork this repository if you wish to make changes or contribute improvements.```
+
+
 This library is designed to enhance your Android applications with easy access to song lyrics. Feel free to use LyricsAI in your projects while respecting its authorship. If you encounter issues, have suggestions for improvement, or want to contribute, we encourage you to get involved.
 
 
