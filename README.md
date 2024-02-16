@@ -9,11 +9,6 @@ LyricsAI is a versatile library designed for Android developers to effortlessly 
 - **Author:** Abdelhakim Khaouiti
 - **GitHub:** [khaouitiabdelhakim](https://github.com/khaouitiabdelhakim)
 
-## Last Modified
-
-- **Last Modified:** 2023-10-22
-
-
 
 ## How to Use
 To use the LyricsAI library in your Android project, follow these steps:
